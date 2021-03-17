@@ -13,9 +13,9 @@ Include the header in your c file and compile with the library and you should be
 make bonus
 ```
 You can run the program by
-'''sh
+```sh
 ./cub3d maps/map_bonus.cub
-'''
+```
 
 ## note
 **A valid map is enclosed (checks eight neighbours) and must have a .cub file extension
